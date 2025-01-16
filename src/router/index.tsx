@@ -1,4 +1,3 @@
-import Settings from "../components/settings";
 import Tasks from "../components/tasks";
 import Homepage from "../components/homepage";
 import { createBrowserRouter } from "react-router-dom";
@@ -17,10 +16,6 @@ const router = createBrowserRouter([
       {
         path: "/task",
         element: <Tasks />,
-      },
-      {
-        path: "/settings",
-        element: <Settings />,
       },
     ],
   },

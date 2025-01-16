@@ -26,7 +26,6 @@ cd task-management-website
 3. npm start
 
 ## Technologies Used
-Frontend: ReactJS, TypeScript, TailwindCSS
-Backend: Firebase (Authentication, Firestore, and Hosting)
-Deployment: Vercel (Frontend), Firebase Hosting (Backend API)
+Frontend: ReactJS, TypeScript, TailwindCSS, Shadcn and Lucide-react icons
+Deployment: Vercel (Frontend)
 Version Control: Git and GitHub
